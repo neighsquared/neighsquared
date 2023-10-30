@@ -1,5 +1,4 @@
-### hrngh
-## soup
+# please excuse my garbage programming skills i'll get better eventually 🧎‍♀️
 
 <!--
 **neighsquared/neighsquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
